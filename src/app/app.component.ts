@@ -7,5 +7,4 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'New Project. Change from the Server';
-  revert = 'Test for revert';
 }
